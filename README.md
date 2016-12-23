@@ -1,8 +1,8 @@
 # Use Eloquent In CodeIgniter2
 
-## This is a demo of use eloquent in CodeIgniter2. You don't do much change to use Eloquent in your origin project.
+This is a demo of use eloquent in CodeIgniter2. You don't do much change to use Eloquent in your origin project.
 
-## The Eloquent ORM provides a beautiful, simple ActiveRecord implementation for working with your database. Each database table has a corresponding "Model" which is used to interact with that table. Models allow you to query for data in your tables, as well as insert new records into the table.
+The Eloquent ORM provides a beautiful, simple ActiveRecord implementation for working with your database. Each database table has a corresponding "Model" which is used to interact with that table. Models allow you to query for data in your tables, as well as insert new records into the table.
 
 # Let's Start
 
@@ -124,9 +124,9 @@ after update `composer.php`, then run the command `composer dump-autoload` to ge
 ### Step 7  Enjoy Eloquent In your Project
 Create those file in the project
 
-1.`application\controller\home.php`
-2.`application\views\list.php`
-3.`application\views\detail.php`
+1. `application\controller\home.php`
+2. `application\views\list.php`
+3. `application\views\detail.php`
 
 
 ##It's easy to use Eloquent in the CodeIgniter2, right?
@@ -136,5 +136,5 @@ If your project is hard to upgrade to Laravel, or you don't like Laravel, this i
 #Thanks
 1. [CodeIgniter 2](http://www.codeigniter.com/download)
 2. [Eloquent](https://laravel.com/docs/5.3/eloquent)
-3. [illuminate/database]((https://github.com/illuminate/database)
+3. [illuminate/database](https://github.com/illuminate/database)
 
