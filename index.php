@@ -199,6 +199,8 @@ if (defined('ENVIRONMENT'))
  * And away we go...
  *
  */
+//load Eloquent to CI
+require APPPATH.'third_party/eloquent.php';
 
 require_once BASEPATH.'core/CodeIgniter.php';
 

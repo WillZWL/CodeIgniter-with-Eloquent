@@ -44,6 +44,16 @@
 | The $active_record variables lets you determine whether or not to load
 | the active record class
 */
+$db['eloquent'] = [
+  'driver'    => 'mysql',
+  'host'      => '192.168.33.1',
+  'database'  => 'ci-eloquent',
+  'username'  => 'root',
+  'password'  => '',
+  'charset'   => 'utf8',
+  'collation' => 'utf8_general_ci',
+  'prefix'    => ''
+];
 
 $active_group = 'default';
 $active_record = TRUE;
